@@ -1,4 +1,4 @@
-package AspetjPack;
+package aspectj;
 
 import beans.Client;
 import beans.Compte;

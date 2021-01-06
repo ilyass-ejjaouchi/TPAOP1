@@ -2,7 +2,7 @@ package beans;
 
 import org.apache.log4j.Logger;
 
-import AspetjPack.RetirerAspect;
+import aspectj.RetirerAspect;
 
 public class Client {
 	private static Logger logger = Logger.getLogger(RetirerAspect.class);
